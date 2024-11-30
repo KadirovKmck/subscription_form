@@ -29,9 +29,9 @@ class FooterOptionUi extends StatelessWidget {
           child: Text(
             label,
             textAlign: TextAlign.center,
-            style: const TextStyle(
+            style: TextStyle(
               color: Colors.white,
-              fontSize: 12,
+              fontSize: 13.sp,
               fontWeight: FontWeight.w500,
             ),
           ),
